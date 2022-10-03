@@ -1,11 +1,11 @@
 // MAP
 
-// const fn = ['FCF', 'HOF', 'IIFE'];
+const fn = ['FCF', 'HOF', 'IIFE'];
 
-// const showfns = fn.map( function (fn) {
-//   return "Here's a function " + fn;
-// });
-// console.log(showfns);
+const showfns = fn.map( function (fn) {
+  return "Here's a function " + fn;
+});
+console.log(showfns);
 
 // Filter 
 
